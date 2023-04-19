@@ -30,5 +30,6 @@ flutter run
 ### video
 https://user-images.githubusercontent.com/37922543/232876436-7e2db28f-030b-4129-b208-d153cd271327.mp4
 
-https://user-images.githubusercontent.com/37922543/219462854-b5249e9e-2896-425b-82c8-d0e8953c8d82.mp4
+https://user-images.githubusercontent.com/37922543/232868988-b3df2cc0-9391-4055-a028-161d11e647bc.mp4
+
 
